@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Espacio Escénico Teatral ) 
 
 Grupo: DIU1-Jorses.  Curso: 2023/24 
-Updated: 11/2/2024
+Updated: 24/3/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -20,11 +20,6 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -33,17 +28,17 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+En esta parte hemos analizado, bajo diferentes puntos de vista y de forma general, diferentes páginas web para realizar el estudio de su usabilidad. Esto servirá de base para desarrollar el resto del proyecto y, en cierto punto, realizar una mejora sustancial en la experiencia de usuario.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Queríamos escoger sitios web alejados de la zona de estudio para ver si en otros lugares también sucedían experiencias similares. Por ejemplo, hemos escogido la pagina de OFF ya que considerabamos que era una web digna de competir y con la que poder comparar debido a su diseño limpio y aspecto profesional, y no difería de lo que buscabamos analizar en nuestra web de referencia. 
+Queríamos escoger sitios web alejados de la zona de estudio para ver si en otros lugares también sucedían experiencias similares. Por ejemplo, hemos escogido la pagina de OFF ya que considerabamos que era una web digna de competir y con la que poder comparar debido a su diseño limpio y aspecto profesional, y no difería de lo que buscabamos analizar en nuestra web de referencia. Hemos elegido la web La Estupenda por su pobre diseño e interfaz poco intuitiva para estudiar como poder mejorarla.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Hemos escogido personas fuera del ámbito teatral y escénico pero con cierto interés en el tema y con diferentes características para enfocarla desde varios puntos de vista.
+Hemos escogido personas fuera del ámbito teatral y escénico pero con cierto interés en el tema y con diferentes características para enfocarla desde varios puntos de vista.
 
 ![Método UX](img/Julio.png)
 ![Método UX](img/Silvia.png)
@@ -51,18 +46,17 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
->>> Consideramos estas experiencias pues, en cuanto al trabajo se refiere, es común y lógico anteponerlo al ocio, y hemos querido basar a nuestras personas desde dicho ámbito para servir de ayuda a otros usuarios.
+Consideramos estas experiencias pues, en cuanto al trabajo se refiere, es común y lógico anteponerlo al ocio, y hemos querido basar a nuestras personas desde dicho ámbito para servir de ayuda a otros usuarios.
 
 ![Metodo UX](img/JourneyMap1.png)
 ![Metodo UX](img/JourneyMap2.png)
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: https://github.com/jorgenavmol/DIU_P/tree/master/P1/4%20-%20Usability%20Review
->>> - Valoración final (numérica): 63
->>> - Comentario sobre la valoración: La valoracion final es medianamente acpetable, pero bastante mejorable en varios aspectos. Algunos de los puntos mas debiles de la página son el uso obligatorio de un menu interactivo auxiliar, cuya funcionalidad es bastante pobre y podria evitarse de distintas formas, la carencia de ayudas o guias para la navegación por la página web, la vaga organización de la información o la lenta velocidad de la pagina. Y algunos de los puntos mas fuertes de la página son el acceso al sitio web, es decir, es fácilmente encontrable, la claridad con la que se indica la información necesaria a introducir y la facilidad que tiene reservar/apuntarse a una actividad. Es pasable, pero la interfaz principal necesita un cambio urgentemente.
+Revisión de usabilidad: 
+- Enlace al documento: [Usability Review](https://github.com/jorgenavmol/DIU_P/tree/master/P1/4%20-%20Usability%20Review)
+- Valoración final (numérica): 63
+- Comentario sobre la valoración: La valoracion final es medianamente acpetable, pero bastante mejorable en varios aspectos. Algunos de los puntos mas debiles de la página son el uso obligatorio de un menu interactivo auxiliar, cuya funcionalidad es bastante pobre y podria evitarse de distintas formas, la carencia de ayudas o guias para la navegación por la página web, la vaga organización de la información o la lenta velocidad de la pagina. Y algunos de los puntos mas fuertes de la página son el acceso al sitio web, es decir, es fácilmente encontrable, la claridad con la que se indica la información necesaria a introducir y la facilidad que tiene reservar/apuntarse a una actividad. Es pasable, pero la interfaz principal necesita un cambio urgentemente.
 
 
 ## Paso 2. UX Design  
