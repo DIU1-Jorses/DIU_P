@@ -72,6 +72,8 @@ Revisión de usabilidad:
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
+
+![Metodo UX](img/JourneyMap2.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
