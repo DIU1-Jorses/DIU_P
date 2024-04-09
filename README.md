@@ -73,7 +73,7 @@ Revisión de usabilidad:
 | ------------- | -------
   Preguntas | Nuevas ideas
 
-![Metodo UX](img/JourneyMap2.png)
+![Metodo UX](img/Malla.png)
   
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -85,7 +85,9 @@ Revisión de usabilidad:
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
+
+![Metodo UX](img/Propuesta_de_valor.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
