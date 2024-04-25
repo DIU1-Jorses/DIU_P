@@ -69,14 +69,10 @@ Revisión de usabilidad:
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
 ![Metodo UX](img/Malla.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ? --> Una pagina web para una empresa de cocina que ofrece tanto recetas, como cursos de cocina para todos los públicos, además de libros de rectas que oferta.
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
@@ -87,29 +83,41 @@ Revisión de usabilidad:
 ----
 >>> Propuesta de valor
 
-![Metodo UX](img/Propuesta_de_valor.png)
+![Metodo UX](img/ScopeCanvasFoto.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "User Map" y "Task Flow" ...
+
+![Método UX](img/UserFlow1.png)
+![Método UX](img/UserFlow2.png)
+![Método UX](img/UserFlow3.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
+  
+![Metodo UX](img/SiteMapFoto.png)
+![Metodo UX](img/Labelling1.png)
+![Metodo UX](img/Labelling2.png)
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+
+![Metodo UX](img/Wireframe1.png)
+![Metodo UX](img/Wireframe2.png)
+![Metodo UX](img/Wireframe3.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
