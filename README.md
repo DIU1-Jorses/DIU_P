@@ -4,12 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Espacio Escénico Teatra
 Grupo: DIU1-Jorses.  Curso: 2023/24 
 Updated: 24/3/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Diseño de una web de Gastronomía
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto consiste en crear una web relacionada con el tema de la gastronomía, cuyo objetivo es asentarse en el mercado, ofreciendo innovación y accesibilidad sencilla y cómoda para nuevos o conocidos públicos. Para ello, recogemos muchas de las necesidades e ideas de usuarios interesados en el tema para sintetizarlas en un sitio web en el que se recogen ideas de recetas, libros y cursos de cocina o interacción con otros usuarios.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -62,37 +61,32 @@ Revisión de usabilidad:
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+Mediante la anterior práctica, pudimos ver aspectos importantes de una web y realizamos un estudio en diferentes ámbitos de la misma, que nos han servido de base para este nuevo proyecto, tanto qué podría tener o qué se podría mejorar en nuestra página.
 
 
 ![Metodo UX](img/Malla.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ? --> Una pagina web para una empresa de cocina que ofrece tanto recetas, como cursos de cocina para todos los públicos, además de libros de rectas que oferta.
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+En esta práctica, planteamos como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa una pagina web para una empresa de cocina que ofrece tanto recetas, como cursos de cocina para todos los públicos, además de un portal de venta de libros de recetas que oferta, todo realizado por chefs profesionales y reconocidos en el ámbito gastronómico.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor
+Nuestra propuesta de valor se resume en la siguiente imagen:
 
 ![Metodo UX](img/ScopeCanvasFoto.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+A continuación, hemos identificado tareas principales, junto a su relevancia, para diferentes grupos de personas que pueden acceder a nuestro sitio web, así como desarrollado 3 de ellas en varios User Flows:
 
 ![Método UX](img/UserTask.png)
-
-![Método UX](img/SitemapFoto.png)
+![Método UX](img/UserFlow1.png)
 ![Método UX](img/UserFlow2.png)
 ![Método UX](img/UserFlow3.png)
 
@@ -100,9 +94,9 @@ Revisión de usabilidad:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
->>> Identificar términos para diálogo con usuario
+Para identificar y esquematizar todos los elementos de forma sencilla e intuitiva, hemos realizado un mapa estructural de las diferentes secciones y subsecciones y de qué trata cada una, junto a qué se puede acceder desde ellas:
 
-![Método UX](img/UserFlow1.png)
+![Método UX](img/SitemapFoto.png)
 ![Método UX](img/Labelling1.png)
 ![Método UX](img/Labelling2.png)
 
@@ -110,7 +104,7 @@ Revisión de usabilidad:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+Por último, hemos propuesto un diseño de una de las secciones más importantes de nuestra web, la página de Recetas, y su diseño adaptado a diferentes estilos y dispositivos.
 
 ![Metodo UX](img/Wireframe1.png)
 ![Metodo UX](img/Wireframe2.png)
