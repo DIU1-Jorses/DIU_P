@@ -99,10 +99,6 @@ Revisión de usabilidad:
 ----
 
 >>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
   
 ![Metodo UX](img/SiteMapFoto.png)
 ![Metodo UX](img/Labelling1.png)
@@ -117,7 +113,6 @@ Término | Significado
 
 ![Metodo UX](img/Wireframe1.png)
 ![Metodo UX](img/Wireframe2.png)
-![Metodo UX](img/Wireframe3.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
