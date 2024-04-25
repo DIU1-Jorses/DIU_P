@@ -65,7 +65,7 @@ Revisión de usabilidad:
 ----
 
 
-Mediante la anterior práctica, pudimos ver aspectos importantes de una web y realizamos un estudio en diferentes ámbitos de la misma, que nos han servido de base para este nuevo proyecto, tanto qué podría tener o qué se podría mejorar en nuestra página.
+Mediante la anterior práctica, pudimos ver aspectos importantes de una web y realizamos un estudio en diferentes ámbitos de la misma, que nos han servido de base para este nuevo proyecto, tanto qué podría tener o qué se podría mejorar en nuestra página en forma de una malla receptora (Feedback Capture Grid).
 
 
 ![Metodo UX](img/Malla.png)
