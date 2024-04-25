@@ -100,12 +100,11 @@ Revisión de usabilidad:
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
->>> Identificar términos para diálogo con usuario  
-  
-![Metodo UX](img/SiteMapFoto.png)
-![Metodo UX](img/Labelling1.png)
-![Metodo UX](img/Labelling2.png)
+>>> Identificar términos para diálogo con usuario
 
+![Método UX](img/UserFlow1.png)
+![Método UX](img/UserFlow2.png)
+![Método UX](img/UserFlow3.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
