@@ -90,6 +90,8 @@ Revisión de usabilidad:
 
 >>> Definir "User Map" y "Task Flow" ...
 
+![Método UX](img/UserTask.png)
+
 ![Método UX](img/UserFlow1.png)
 ![Método UX](img/UserFlow2.png)
 ![Método UX](img/UserFlow3.png)
