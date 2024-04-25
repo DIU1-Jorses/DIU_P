@@ -1,8 +1,9 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Espacio Escénico Teatral ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Espacio Escénico Teatral) 
 
 Grupo: DIU1-Jorses.  Curso: 2023/24 
 Updated: 25/4/2024
+
 Enlace GitHub: https://github.com/DIU1-Jorses/DIU_P
 
 Proyecto: Diseño de una web de Gastronomía
