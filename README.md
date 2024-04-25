@@ -92,7 +92,7 @@ Revisión de usabilidad:
 
 ![Método UX](img/UserTask.png)
 
-![Método UX](img/UserFlow1.png)
+![Método UX](img/SitemapFoto.png)
 ![Método UX](img/UserFlow2.png)
 ![Método UX](img/UserFlow3.png)
 
@@ -103,8 +103,8 @@ Revisión de usabilidad:
 >>> Identificar términos para diálogo con usuario
 
 ![Método UX](img/UserFlow1.png)
-![Método UX](img/UserFlow2.png)
-![Método UX](img/UserFlow3.png)
+![Método UX](img/Labelling1.png)
+![Método UX](img/Labelling2.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
