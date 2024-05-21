@@ -149,21 +149,14 @@ Nuestra landing page esta diseñada para atraer al máximo número de clientes y
 ----
 
 Para nuestro proyecto de diseño de interfaces de usuario, hemos elegido la fuente Kufam debido a su legibilidad y claridad, características cruciales para una buena experiencia de usuario en pantallas digitales. Nuestra paleta de colores se basa en tonos suaves de naranja y amarillo, seleccionados por su asociación con la comida y sus características de transmitir energía, vitalidad y positividad. Estos colores cálidos hacen la aplicación más dinámica y atractiva, proporcionando buen contraste con colores neutros como blanco y gris. Además hemos utilizado varios patrones IU, como las barras de navegación, los carroussel, los campos de texto o las barras de busqueda y botones. Enlace directo: [Guidelines](P3/3.%20Patrones%20y%20guidelines/GUIDELINES.pdf)
-
-
 ![Método UX](img/Layout.png)
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 
-El Mockup que hemos disñeado permite ver la interacción del usuario con la aplicación:
-![Video](https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm)
-<video width="600" controls>
-  <source src="https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Enlace a figma: [Mockup](https://www.figma.com/design/jhw2AZKXEF12lJCMCpxgAk/App?node-id=0-1&t=OIOuDzsn9FaRo7PK-0)
-----
+El Mockup que hemos diseñeado permite ver la interacción del usuario con la aplicación. Se puede descargar en el siguiente enlace:
+![Video](https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm) o mediante la ejecución de la aplicación (botón Play, arriba derecha): [Ejecución](https://www.figma.com/proto/jhw2AZKXEF12lJCMCpxgAk/App?node-id=2-2&t=OIOuDzsn9FaRo7PK-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2). La aplicación se ve de forma general de la siguiente forma:
+![Método UX](img/Layout.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
@@ -173,16 +166,21 @@ Enlace a figma: [Mockup](https://www.figma.com/design/jhw2AZKXEF12lJCMCpxgAk/App
 Esta aplicación surgió de la idea de ofrecer las maravillas de la gastronomía y todo lo relacionado con este mundo a cualquiera dispuesto por aprender y sorprender, no solo a sus seres queridos si no a si msimo.
 
 ### Primeros pasos del proyecto
-Al principio cogimos de referencia una pagina web de una escuela de teatro, y la analizamos objetivamente, viendo sus puntos fuertes y sus fallos, indicando las mejoras neecsarias y las funcionalidades útil. Uno de los pasos para esto fue simular el uso de dos usuarios, y ver como sería la interacción con la pagina web. Uno de los usuarios la inventamos como una cocinera la cual quería despejarse de su trabajo demandante y poder disfrutar del arte de la actuación.
+Al principio cogimos de referencia una pagina web de una escuela de teatro, y la analizamos objetivamente, viendo sus puntos fuertes y sus fallos, indicando las mejoras neecsarias y las funcionalidades útil. Uno de los pasos para esto fue simular el uso de dos usuarios, y ver como sería la interacción con la pagina web. Uno de los usuarios la inventamos como una cocinera la cual quería despejarse de su trabajo demandante y poder disfrutar del arte de la actuación. A partir de esta usuaria coincidimos que para la siguiente práctica hicieramos una empresa de cocina.
 
+### Montando la aplicación
+Para ello , usamos varias herramientas y técnicas, como el diseño de un moodboard que plasmara las ideas principales de como queriamos visualizar la app, dandole la personalidad que querimaos que tuviese. Tras esto hicimos un landing page con el objetivo de que los usuarios la vieran y se vieran obligados a entrar a nuestra app e indiagar más en los servicios que ofrece. Finalmente, hicimos una busqueda intensiva sobre los patrones de IU que usar en nuestra app para la
+navegación a través de esta, además de añadir un estilo visual mejor.
 
+### Conclusiones
+En nuestra ocasión, acabamos haciendo una web de gastronomía tras analizar los aspectos técnicos de una web de teatro. Esto nos ayudó a saber qué objetivo teníamos a la hora de montrar nuestra aplicación, aunque con pocas referencias concretas al tratarse de temas muy diferentes entre sí. La visión de las personas fue un factor clave en la decisión del tema de la web, y de como ésta se iba a enfocar, así como cualidades y facilidades. Gracias a esto, hemos conseguido crear un entorno desde 0, en el que poder vertir los conocimientos adquiridos durante la asignatura y que aspectos positivos queríamos y cuales negativos evitar. Además, esto ha hecho que indaguemos más en el tema gastronómico, especificamente la parte de los cursos y recetarios online, interesándonos más por este tema y sirviendonos de base para muchos elementos.
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
 Exportación a HTML/Flutter
 -----
 
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+![Método UX](img/eye-tracking.png) 5.b Eye Tracking method 
 
 >>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
 
