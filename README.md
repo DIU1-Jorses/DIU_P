@@ -8,12 +8,12 @@ Enlace GitHub: https://github.com/DIU1-Jorses/DIU_P
 
 Proyecto: Diseño de una web de Gastronomía
 
-Descripción: 
+Descripción: El Recetario es una aplicación de recetas y cursos, la cual aboga por la innovación junto con la preservación de lo tradicional, ofreciendo rectas de todo tipo y de diversas culturas en un solo click. Nuestra app ofrece una amplia gama de cursos y eventos gastronómicos, desde clases de wok oriental hasta talleres de reposteria. Nuestra aplicación se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
 
 Nuestro proyecto consiste en crear una web relacionada con el tema de la gastronomía, cuyo objetivo es asentarse en el mercado, ofreciendo innovación y accesibilidad sencilla y cómoda para nuevos o conocidos públicos. Para ello, recogemos muchas de las necesidades e ideas de usuarios interesados en el tema para sintetizarlas en un sitio web en el que se recogen ideas de recetas, libros y cursos de cocina o interacción con otros usuarios.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Método UX](img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Jose Francisco López Rubio     :octocat:     
