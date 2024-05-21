@@ -6,18 +6,23 @@ Updated: 25/4/2024
 
 Enlace GitHub: https://github.com/DIU1-Jorses/DIU_P
 
-Proyecto: Diseño de una web de Gastronomía
+**Proyecto:** 
+# El Recetario
 
-Descripción: El Recetario es una aplicación de recetas y cursos, la cual aboga por la innovación junto con la preservación de lo tradicional, ofreciendo rectas de todo tipo y de diversas culturas en un solo click. Nuestra app ofrece una amplia gama de cursos y eventos gastronómicos, desde clases de wok oriental hasta talleres de reposteria. Nuestra aplicación se enfoca en crear experiencias únicas que permitan a los usuarios explorar y aprender sobre la gastronomía de diversas culturas.
+**Descripción:**  
+**El Recetario** es una app que celebra tanto la innovación como la autenticidad culinaria, proporcionando una amplia variedad de recetas de diferentes culturas con solo un clic. Además, ofrece una variedad de cursos y eventos gastronómicos, desde clases de cocina oriental hasta talleres de repostería. Nos esforzamos por crear experiencias únicas que permitan a los usuarios sumergirse y aprender sobre la gastronomía de distintas culturas.
 
 Nuestro proyecto consiste en crear una web relacionada con el tema de la gastronomía, cuyo objetivo es asentarse en el mercado, ofreciendo innovación y accesibilidad sencilla y cómoda para nuevos o conocidos públicos. Para ello, recogemos muchas de las necesidades e ideas de usuarios interesados en el tema para sintetizarlas en un sitio web en el que se recogen ideas de recetas, libros y cursos de cocina o interacción con otros usuarios.
 
-Logotipo: 
+Nuestra misión es hacer que la cocina sea accesible, divertida y gratificante para todos. Creemos que cualquiera puede ser un gran cocinero con las recetas adecuadas y un poco de orientación. Por eso, nos esforzamos por ofrecer contenido de alta calidad que no solo instruye, sino que también inspira.
+
+**Logotipo:** 
+
 ![Método UX](img/Logo.png)
 
-Miembros
- * :bust_in_silhouette:   Jose Francisco López Rubio     :octocat:     
- * :bust_in_silhouette:  Jorge Navarro Molina     :octocat:
+**Miembros**
+ * :bust_in_silhouette:   Jose Francisco López Rubio  [jflrubio4](https://github.com/jflrubio4)         
+ * :bust_in_silhouette:  Jorge Navarro Molina [jorgenavmol](https://github.com/jorgenavmol)         
 
 ----- 
 
@@ -118,36 +123,58 @@ Por último, hemos propuesto un diseño de una de las secciones más importantes
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+En nuestro moodboard hemos añadido los elementos principales y clave que componen la idea que tenemos de la visualización final de la aplicación. Hemos elegido fotos que considerabamos que transmitían la misma sensación que queremos que los clientes tengan cuando entren en la app, una sensación de calidez y bienestar. La paleta de colores acompaña a esta sensación ya que es visualmente placentera y suave a la vista, además de que recuerda a la cocina. La fuente elegida mezcla el estilo moderno con el facil de leer, es bastante visual. Los comentarios añadidos simulan como queremos que los usarios interactuen con la app. Se puede visualizar mejor en el enlace a figma: [Moodboard](https://www.figma.com/design/nJiKGIodoMkNieeSc88b0c/Untitled?node-id=0-1&t=uPSZLlzsIitvS3xW-0)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Método UX](img/Moodboard.png)
+
+Para el diseño del logotipo, inicialmente utilizamos un generador de logos mediante una IA que, posteriormente, editamos aquel que más nos gustó, resultando en el logotipo finalmente usado en nuestra web. Dicho logotipo puede parecer algo largo, pero encaja bastante bien en las cabeceras de algunas páginas. 
+
+![Método UX](img/Logo.png)
+
+Sin embargo, para la nuestra, lo hemos tenido que adaptar un poco, moviendo el icono encima del texto y alineándolos, de forma que no sea tan ancho. Además, dicho icono funciona a la perfección para encontrarse en diferentes páginas, al ser compacto y sencillo y no necesita del texto para su comprensión.
+
+![Método UX](img/Logo2.png)
+![Método UX](img/IconoLogo.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Nuestra landing page esta diseñada para atraer al máximo número de clientes y que estos vengan de distintas comunidades, por lo que se intenta cubrir todos los tipos de públicos, haciendo un landing page genérico y llamativo. En este presentamos claramente los servicios que ofrecemos de una forma amigable e incitamos a probarlos. En la parte final incluimos un boton que redirigirá a la aplicación, junto con el footer con los enlaces relevantes sobre nuestra marca.
 
->>> Plantear Landing Page 
+
+![Método UX](img/Landing.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para nuestro proyecto de diseño de interfaces de usuario, hemos elegido la fuente Kufam debido a su legibilidad y claridad, características cruciales para una buena experiencia de usuario en pantallas digitales. Nuestra paleta de colores se basa en tonos suaves de naranja y amarillo, seleccionados por su asociación con la comida y sus características de transmitir energía, vitalidad y positividad. Estos colores cálidos hacen la aplicación más dinámica y atractiva, proporcionando buen contraste con colores neutros como blanco y gris. Además hemos utilizado varios patrones IU, como las barras de navegación, los carroussel, los campos de texto o las barras de busqueda y botones. Enlace directo: [Guidelines](P3/3.%20Patrones%20y%20guidelines/GUIDELINES.pdf)
+
+
+![Método UX](img/Layout.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+El Mockup que hemos disñeado permite ver la interacción del usuario con la aplicación:
+![Video](https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm)
+<video width="600" controls>
+  <source src="https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Enlace a figma: [Mockup](https://www.figma.com/design/jhw2AZKXEF12lJCMCpxgAk/App?node-id=0-1&t=OIOuDzsn9FaRo7PK-0)
+----
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+### Origen de la aplicación
+Esta aplicación surgió de la idea de ofrecer las maravillas de la gastronomía y todo lo relacionado con este mundo a cualquiera dispuesto por aprender y sorprender, no solo a sus seres queridos si no a si msimo.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+### Primeros pasos del proyecto
+Al principio cogimos de referencia una pagina web de una escuela de teatro, y la analizamos objetivamente, viendo sus puntos fuertes y sus fallos, indicando las mejoras neecsarias y las funcionalidades útil. Uno de los pasos para esto fue simular el uso de dos usuarios, y ver como sería la interacción con la pagina web. Uno de los usuarios la inventamos como una cocinera la cual quería despejarse de su trabajo demandante y poder disfrutar del arte de la actuación.
+
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
