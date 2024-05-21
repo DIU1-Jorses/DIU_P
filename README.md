@@ -148,10 +148,11 @@ Nuestra landing page esta diseñada para atraer al máximo número de clientes y
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Para nuestro proyecto de diseño de interfaces de usuario, hemos elegido la fuente Kufam debido a su legibilidad y claridad, características cruciales para una buena experiencia de usuario en pantallas digitales. Nuestra paleta de colores se basa en tonos suaves de naranja y amarillo, seleccionados por su asociación con la comida y sus características de transmitir energía, vitalidad y positividad. Estos colores cálidos hacen la aplicación más dinámica y atractiva, proporcionando buen contraste con colores neutros como blanco y gris. Además hemos utilizado varios patrones IU, como las barras de navegación, los carroussel, los campos de texto o las barras de busqueda y botones. Enlace directo: [Guidelines](P3/3.%20Patrones%20y%20guidelines/GUIDELINES.pdf)
+Para nuestro proyecto de diseño de interfaces de usuario, hemos elegido la fuente Kufam debido a su legibilidad y claridad, características cruciales para una buena experiencia de usuario en pantallas digitales. Nuestra paleta de colores se basa en tonos suaves de naranja y amarillo, seleccionados por su asociación con la comida y sus características de transmitir energía, vitalidad y positividad. Estos colores cálidos hacen la aplicación más dinámica y atractiva, proporcionando buen contraste con colores neutros como blanco y gris. Además hemos utilizado varios patrones IU, como las barras de navegación, los carroussel, los campos de texto o las barras de busqueda y botones. Enlace directo: [Guidelines](P3/3.%20Patrones%20y%20guidelines/GUIDELINES.pdf).
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
+----
 
 El Mockup que hemos diseñeado permite ver la interacción del usuario con la aplicación. Se puede descargar en el siguiente enlace:
 ![Video](https://github.com/DIU1-Jorses/DIU_P/blob/master/P3/4.%20Layout%20%2B%20Simulaci%C3%B3n/VideoApp.webm) o mediante la ejecución de la aplicación (botón Play, arriba derecha): [Ejecución](https://www.figma.com/proto/jhw2AZKXEF12lJCMCpxgAk/App?node-id=2-2&t=OIOuDzsn9FaRo7PK-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2). La aplicación se ve de forma general de la siguiente forma:
