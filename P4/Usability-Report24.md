@@ -14,7 +14,7 @@
 
 
 
-![Imagen](img/ProyectoGaming.png)
+![Imagen](ProyectoGaming.png)
 
 Enlace GitHub: https://github.com/AntonioFdez03/PracticasDIU
 
@@ -98,7 +98,7 @@ Descripción: Jorge es un hombre de 42 años, muy social y cercano a su gran fam
 
 Los resultados obtenidos corresponden al orden de presentación de los usuarios en la tabla, correspondiéndose Ana y Carlos al test A (Nuestro Proyecto) y Lucía y Jorge al test B (Proyecto a evaluar):
 
-![Imagen](img/CuestionarioSUS.png)
+![Imagen](CuestionarioSUS.png)
 
 
 
