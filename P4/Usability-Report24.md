@@ -6,17 +6,17 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Gaming Center
 
-### (Fecha)
-
-
+### (30/05/2024)
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+
+[Imagen](img/ProyectoGaming.png)
+
+Enlace GitHub: https://github.com/AntonioFdez03/PracticasDIU
 
 
 
@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo DIU1_Jorses. ]
 
 
 
