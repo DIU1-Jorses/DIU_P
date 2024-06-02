@@ -102,6 +102,7 @@ Los resultados obtenidos corresponden al orden de presentación de los usuarios 
 
 
 Los resultados del eye tracking en los diferentes test son los siguientes. Para el test A:
+
 ![Imagen](HomePage_AOI.png)
 ![Imagen](HomePage_1.png)
 
