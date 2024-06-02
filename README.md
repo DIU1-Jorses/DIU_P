@@ -177,35 +177,6 @@ navegación a través de esta, además de añadir un estilo visual mejor.
 ### Conclusiones
 En nuestra ocasión, acabamos haciendo una web de gastronomía tras analizar los aspectos técnicos de una web de teatro. Esto nos ayudó a saber qué objetivo teníamos a la hora de montrar nuestra aplicación, aunque con pocas referencias concretas al tratarse de temas muy diferentes entre sí. La visión de las personas fue un factor clave en la decisión del tema de la web, y de como ésta se iba a enfocar, así como cualidades y facilidades. Gracias a esto, hemos conseguido crear un entorno desde 0, en el que poder vertir los conocimientos adquiridos durante la asignatura y que aspectos positivos queríamos y cuales negativos evitar. Además, esto ha hecho que indaguemos más en el tema gastronómico, especificamente la parte de los cursos y recetarios online, interesándonos más por este tema y sirviendonos de base para muchos elementos.
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png) 5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
 
 
 ## Paso 4. Evaluación 
@@ -242,6 +213,13 @@ Descripción: Jorge es un hombre de 42 años, muy social y cercano a su gran fam
 
 Se ha usado la plantilla descrita en el github del profesor, en formato .xlsx, para rellenar las diferentes columnas para los diferentes usuarios, se puede ver de forma directa pinchando [aquí](https://github.com/DIU1-Jorses/DIU_P/blob/master/P4/3.%20Cuestionario%20SUS/Cuestionario%20SUS.pdf).
 ![Imagen](img/CuestionarioSUS_Global.png)
+
+
+![Método UX](img/eye-tracking.png) 4.d Eye Tracking method 
+----
+
+Hemos cogido a los 4 usuarios definidos y les hemos dado la tarea de enfocarse en lo que más le atraiga de la página que estén observando, o al menos, lo primero que visualicen. Estas pruebas se pueden observar en la carpeta [2. EyeTracking](https://github.com/DIU1-Jorses/DIU_P/tree/master/P4/2.%20Eye%20Tracking) (siendo test A los test realizados a nuestra web y test B los realizados al que se nos ha asignado, Gaming Center).
+Las imágenes están insertadas en la siguiente sección, el Usability Report.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -322,8 +300,6 @@ Y para el test B:
 
 
 ## 4 CONCLUSIONES 
-
-
 
 A partir de los resultados de las pruebas de usabilidad efectuadas a lo largo de esta práctica, hemos podido extraer varias conclusiones:
 
