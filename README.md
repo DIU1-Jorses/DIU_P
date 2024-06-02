@@ -311,10 +311,12 @@ Los resultados obtenidos corresponden al orden de presentación de los usuarios 
 ![Imagen](img/CuestionarioSUS.png)
 
 Los resultados del eye tracking en los diferentes test son los siguientes. Para el test A:
+
 ![Imagen](img/HomePage_AOI.png)
-![Imagen](HomePage_1.png)
+![Imagen](img/HomePage_1.png)
 
 Y para el test B:
+
 ![Imagen](img/HomePageB_AOI.png)
 ![Imagen](img/HomePageB_1.png)
 

@@ -107,6 +107,7 @@ Los resultados del eye tracking en los diferentes test son los siguientes. Para 
 ![Imagen](HomePage_1.png)
 
 Y para el test B:
+
 ![Imagen](HomePageB_AOI.png)
 ![Imagen](HomePageB_1.png)
 
