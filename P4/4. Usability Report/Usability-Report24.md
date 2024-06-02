@@ -68,7 +68,7 @@ Las técnicas aplicadas han sido varias. Se han construido 4 perfiles ficticios 
 
 También hemos utilizado una herramienta de Internet, "Gaze recorder", cuya tecnología obtiene los puntos principales a los que mira el sujeto y así saber si el diseño de dicha aplicación cumple con sus propósitos.
 
- 
+
 
 #### Test de usuarios: Participantes
 
@@ -101,9 +101,13 @@ Los resultados obtenidos corresponden al orden de presentación de los usuarios 
 ![Imagen](CuestionarioSUS.png)
 
 
+Los resultados del eye tracking en los diferentes test son los siguientes. Para el test A:
+![Imagen](HomePage_AOI.png)
+![Imagen](HomePage_1.png)
 
-
-(resultado de eyetracking)
+Y para el test B:
+![Imagen](HomePageB_AOI.png)
+![Imagen](HomePageB_1.png)
 
 
 
