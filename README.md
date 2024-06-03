@@ -292,11 +292,13 @@ Los resultados del eye tracking en los diferentes test son los siguientes. Para 
 
 ![Imagen](img/HomePage_AOI.png)
 ![Imagen](img/HomePage_1.png)
+![Imagen](img/HomePage_2.png)
 
 Y para el test B:
 
 ![Imagen](img/HomePageB_AOI.png)
 ![Imagen](img/HomePageB_1.png)
+![Imagen](img/HomePageB_2.png)
 
 
 ## 4 CONCLUSIONES 
